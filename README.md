@@ -1,5 +1,5 @@
 ## Colify
-a simple color format converter writed in python
+a simple color format converter for linux writed in python
 
 ## Table of contents
 
