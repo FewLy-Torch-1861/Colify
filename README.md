@@ -37,4 +37,4 @@ options:
 
 ##
 
-*created on archlinux using neovim btw.*
+*created on archlinux using neovim and chatGPT btw.*
